@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: העמוד הראשי של עמית
-description: האתר האישי שלי דרך GitHub Pages
+# Jekyll Configuration for GitHub Pages
+
+# --- Theme Setup ---
+# Using the "Cayman" theme for a clean, professional, and responsive look.
+theme: jekyll-theme-cayman
+
+# --- Site Metadata (Appears at the top of the page) ---
+title: Amit's Personal Homepage
+description: A portfolio showcasing my skills, projects, and journey in technology.
+
+# --- Optional Settings ---
+# Set to false if you don't want the download/clone buttons at the top
+show_downloads: false
